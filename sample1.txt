@@ -1,3 +1,4 @@
 this is a sample file
 what the hell?
 this is an urgent fix.
+this is a stash exmple.

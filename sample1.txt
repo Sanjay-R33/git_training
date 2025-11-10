@@ -1,4 +1,7 @@
 this is a sample file
 what the hell?
+<<<<<<< Updated upstream
 this is an urgent fix.
+=======
+>>>>>>> Stashed changes
 this is a stash exmple.
